@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Merman Dingo",
+    "artist": "Rumpke Mountian Boys",
+    "date": "7/22/2016",
+    "picker": "Adam",
+    "url": "rumpkemb2016-07-22/rumpkemb20160722d3t01.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 2,
+    "title": "Mark It Zero",
+    "artist": "Rumpke Mountian Boys",
+    "date": "4/7/2016",
+    "picker": "Adam",
+    "url": "rumpkemb2017-04-07/rumpkemb04072017d2t06.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 3,
+    "title": "Chocolate Jesus",
+    "artist": "Rumpke Mountian Boys",
+    "date": "4/8/2017 - Late Night",
+    "picker": "Adam",
+    "url": "RumpkeMountainBoys2017-04-08.late.CA-11.flac16/23.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 4,
+    "title": "Fordinaire",
+    "artist": "Rumpke Mountian Boys",
+    "date": "1/8/2015",
+    "picker": "Adam",
+    "url": "rumpkemb2015-01-08/rumpkemb20150108d2t02.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 5,
+    "title": "Raven on a Wire",
+    "artist": "Rumpke Mountian Boys",
+    "date": "7/23/2016",
+    "picker": "Adam",
+    "url": "rumpkemb2016-07-23/rumpkemb20160723d3t07.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 6,
+    "title": "Why Can't We All Grow Young",
+    "artist": "Rumpke Mountian Boys",
+    "date": "4/7/2017",
+    "picker": "Wolf",
+    "url": "rumpkemb2017-04-07/rumpkemb04072017d2t05.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 7,
+    "title": "6 Days on the Road",
+    "artist": "Rumpke Mountian Boys",
+    "date": "1/8/2015",
+    "picker": "Wolf",
+    "url": "rumpkemb2015-01-08/rumpkemb20150108d2t01.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 8,
+    "title": "Summer in the Country",
+    "artist": "Rumpke Mountian Boys",
+    "date": "***",
+    "picker": "Wolf",
+    "url": "***",
+    "isSelected": false
+  },
+  {
+    "id": 9,
+    "title": "Cold Mountain Air",
+    "artist": "Rumpke Mountian Boys",
+    "date": "4/8/2017 - Early",
+    "picker": "Wolf",
+    "url": "rumpkemb2017-04-08.a24bit/rumpkemb04082017a24bit01.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 10,
+    "title": "Fight For Your Right",
+    "artist": "Rumpke Mountian Boys",
+    "date": "4/8/2017 - Late Night",
+    "picker": "Wolf",
+    "url": "RumpkeMountainBoys2017-04-08.late.CA-11.flac16/22.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 11,
+    "title": "Yonder Goes a Sucker",
+    "artist": "Rumpke Mountian Boys",
+    "date": "1/8/2015",
+    "picker": "JD",
+    "url": "rumpkemb2015-01-08/rumpkemb20150108d3t08.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 12,
+    "title": "Big Brother",
+    "artist": "Rumpke Mountian Boys",
+    "date": "1/8/2015",
+    "picker": "JD",
+    "url": "rumpkemb2015-01-08/rumpkemb20150108d1t08.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 13,
+    "title": "Molly",
+    "artist": "Rumpke Mountian Boys",
+    "date": "7/22/2016",
+    "picker": "JD",
+    "url": "rumpkemb2016-07-22/rumpkemb20160722d1t12.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 14,
+    "title": "Murder in the First Degree",
+    "artist": "Rumpke Mountian Boys",
+    "date": "7/22/2016",
+    "picker": "JD",
+    "url": "rumpkemb2016-07-22/rumpkemb20160722d3t02.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 15,
+    "title": "Traveling Light",
+    "artist": "Rumpke Mountian Boys",
+    "date": "4/8/2017",
+    "picker": "JD",
+    "url": "RumpkeMountainBoys2017-04-08.late.CA-11.flac16/24.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 16,
+    "title": "Fetch Wood, Carry Water",
+    "artist": "Rumpke Mountian Boys",
+    "date": "7/22/2016",
+    "picker": "Ben",
+    "url": "rumpkemb2016-07-22/rumpkemb20160722d3t08.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 17,
+    "title": "Disconnected",
+    "artist": "Rumpke Mountian Boys",
+    "date": "1/8/2015",
+    "picker": "Ben",
+    "url": "rumpkemb2015-01-08/rumpkemb20150108d2t04.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 18,
+    "title": "Family Perspective",
+    "artist": "Rumpke Mountian Boys",
+    "date": "4/8/2017",
+    "picker": "Ben",
+    "url": "rumpkemb2017-04-08.a24bit/rumpkemb04082017a24bit12.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 19,
+    "title": "Corrina",
+    "artist": "Rumpke Mountian Boys",
+    "date": "7/22/2016",
+    "picker": "Ben",
+    "url": "rumpkemb2016-07-22/rumpkemb20160722d2t06.mp3",
+    "isSelected": false
+  },
+  {
+    "id": 20,
+    "title": "Ain't No Bread in the Breadbox",
+    "artist": "Rumpke Mountian Boys",
+    "date": "10/1/2016",
+    "picker": "Ben",
+    "url": "rumpkemb2016-10-01/rumpkemb20161001d2t03.mp3",
+    "isSelected": false
+  }
+]
